@@ -27,4 +27,4 @@ jobs:
 
     - name: Run tests
       run: |
-        python your_script.py  # Replace 'vaccum_world_problem.py' with the name of your Python file
+        python vaccum_world_problem.py  # Replace 'vaccum_world_problem.py' with the name of your Python file
